@@ -1,6 +1,4 @@
-# PowerShell-Reverse-Shell
-
-## 🔐 Obfuscated Reverse Shell Collection
+# 🔐 Obfuscated Reverse Shell Collection
 
 **This repository contains obfuscated PowerShell reverse shells for researching AV evasion techniques.**
 

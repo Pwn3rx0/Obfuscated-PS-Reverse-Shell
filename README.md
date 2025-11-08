@@ -35,7 +35,7 @@ I am not responsible for any illegal or unauthorized use of these techniques. Us
 
 [Full Report](https://www.virustotal.com/gui/file/3272033b8e21a43b3ad88db6af24aad33ec925db6b8280783426d8b98fa8fcd5)
 
-**“just 24h, then it burns, nothing survives.”**
+**just 24h, then it burns, nothing survives.**
 
 ---
 

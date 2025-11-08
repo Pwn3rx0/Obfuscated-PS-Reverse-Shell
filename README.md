@@ -21,13 +21,10 @@ I developed these payloads to study:
 **I accept full responsibility for this research and have no problem being "burned" - this work is meant to be analyzed and improved upon by the security community.**
 
 ### 🔍 Detection Results
-**VirusTotal Analysis:** *[Upload your samples to see detection rates]*
+**VirusTotal Analysis:** *<img width="1353" height="648" alt="1" src="https://github.com/user-attachments/assets/a94f16ae-5e63-434f-924d-cb474a8accf9" />*
 
-| Obfuscation Method | Detection Rate | Last Scan |
-|-------------------|----------------|-----------|
-| Basic Obfuscation | X/60 | YYYY-MM-DD |
-| Advanced Encoding | X/60 | YYYY-MM-DD |
-| Multiple Techniques | X/60 | YYYY-MM-DD |
+
+
 
 *Sample detection rates vary based on obfuscation techniques used*
 

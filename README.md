@@ -31,7 +31,7 @@ I am not responsible for any illegal or unauthorized use of these techniques. Us
 
 ![VirusTotal Results](https://github.com/user-attachments/assets/03d06b97-be79-4561-bc47-a7ce6bfded15)
 
-[Full Report](https://www.virustotal.com/gui/file/3272033b8e21a43b3ad88db6af24aad33ec925db6b8280783426d8b98fa8fcd5)
+[Full Report](https://www.virustotal.com/gui/file/8fc1d29840592a9c01c9c80920dcf76608f50e31f624a58cfa0bc0014a5deff9?nocache=1)
 
 **just 24h, then it burns, nothing survives.**
 

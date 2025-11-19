@@ -27,7 +27,7 @@ I am not responsible for any illegal or unauthorized use of these techniques. Us
 
 ## 🔍 Detection Results
 
-**VirusTotal Analysis:** 1/61 Detections
+**VirusTotal Analysis:** 0/62 Detections
 
 ![VirusTotal Results](https://github.com/user-attachments/assets/03d06b97-be79-4561-bc47-a7ce6bfded15)
 

@@ -42,3 +42,7 @@ I am not responsible for any illegal or unauthorized use of these techniques. Us
 **Use responsibly and only with proper authorization.**
 
 *The tools of the trade should be known to those who defend.*
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=freelabz/secator&type=date&legend=top-left)](https://www.star-history.com/#freelabz/secator&type=date&legend=top-left)

